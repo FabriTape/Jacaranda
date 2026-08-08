@@ -58,8 +58,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-> ⚠️ La pestaña *Reproductor* usa un archivo de audio local (`*.mp4`) que **no se sube al
-> repositorio**. La aplicación funciona igual si el archivo no está presente.
+La pestaña *Reproductor* reproduce la pista de audio incluida en el repositorio.
 
 ## 🧪 Datos del laboratorio
 
