@@ -1,0 +1,8 @@
+PyQt6>=6.6
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+uncertainties>=3.1
+astropy>=5.3
+astroquery>=0.4.6
+IPython>=8.12
