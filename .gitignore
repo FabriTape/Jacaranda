@@ -11,10 +11,7 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Multimedia local (la app lo usa si está presente, no se sube al repo)
-*.mp4
-*.mp3
-*.wav
+# Accesos directos de escritorio generados por la app
 *.desktop
 
 # IDEs
