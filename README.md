@@ -14,7 +14,7 @@ datos atómica **NIST ASD**, y estimación del error sistemático del cero angul
 
 ---
 
-## ✨ Características
+##  Características
 
 - **Ingreso de datos**: registro de mediciones angulares (grados, minutos, segundos), cálculo
   automático de longitudes de onda y propagación de incertidumbres.
@@ -31,7 +31,7 @@ datos atómica **NIST ASD**, y estimación del error sistemático del cero angul
 - **Tema oscuro** y estética unificada (logo Jacarandá).
 - Crea un **lanzador de escritorio** (.desktop) al iniciarse.
 
-## 📦 Requisitos
+## Requisitos
 
 - Python 3.10+
 - PyQt6 (interfaz gráfica)
@@ -40,7 +40,7 @@ datos atómica **NIST ASD**, y estimación del error sistemático del cero angul
 - astropy + astroquery (consultas NIST ASD)
 - IPython
 
-## 🚀 Instalación
+## Instalación
 
 ```bash
 # 1. Clonar el repositorio
@@ -60,7 +60,7 @@ python main.py
 
 La pestaña *Reproductor* reproduce la pista de audio incluida en el repositorio.
 
-## 🧪 Datos del laboratorio
+## Datos del laboratorio
 
 Los datos de medición se organizan por elemento en carpetas `Lab_2_<Elemento>`:
 
@@ -80,7 +80,7 @@ comparativo en `Desplazamiento/`.
 Para añadir una nueva medición de un elemento existente sin sobrescribir las anteriores,
 ingresar el nombre con sufijo, p. ej. `Kr_2`.
 
-## 🗂️ Estructura del proyecto
+## Estructura del proyecto
 
 ```
 Jacaranda/
@@ -99,7 +99,7 @@ Jacaranda/
 └── Jacaranda.png           # Logo
 ```
 
-## ⚖️ Licencia
+## Licencia
 
 Código libre, disponible para ser editado y mejorado.
 
